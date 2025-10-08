@@ -48,7 +48,6 @@ Acesse no navegador:
 http://localhost:5173
 
 📘 Aulas e Conteúdo:
-Aula	Tópico Principal	Descrição
 00	Introdução	Estrutura base e preparação do ambiente;
 01	Componentização	Criação e separação de componentes;
 02	Props e Estado	Comunicação entre componentes;
@@ -60,7 +59,7 @@ Aula	Tópico Principal	Descrição
 Este projeto tem como propósito consolidar o aprendizado em desenvolvimento front-end moderno, aplicando práticas profissionais de organização, componentização e integração de código em React.
 
 👨‍💻 Autor:
-Paulo George da CRuz Araújo Filho.
+Paulo George da Cruz Araújo Filho.
 📎 GitHub - https://github.com/PGeorge044
 
 📝 Licença:
