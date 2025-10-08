@@ -61,7 +61,7 @@ Este projeto tem como propósito consolidar o aprendizado em desenvolvimento fro
 
 👨‍💻 Autor:
 Paulo George da CRuz Araújo Filho.
-📎 GitHub - PGeorge044
+📎 GitHub - https://github.com/PGeorge044
 
 📝 Licença:
 Este projeto foi desenvolvido para fins educacionais e pode ser livremente estudado, modificado e distribuído.
